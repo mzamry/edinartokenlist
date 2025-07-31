@@ -1,20 +1,29 @@
 {
-  "name": "EDINAR",
-  "timestamp": "2025-07-31T00:00:00+00:00",
+  "name": "eDINAR Token List",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreibdfqqudx7psaaaqhypwiag75ssw2vexwwsmvfsjtokxhexzzhaw4",
+  "keywords": ["edinar", "dinar", "cryptocurrency", "token"],
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
+  "timestamp": "2025-07-31T12:00:00Z",
   "tokens": [
     {
       "chainId": 570,
+      "address": "0xcfD20a6aBed99Cdf1858879cca28c464007e94F4",
+      "name": "e-Dinar",
+      "symbol": "EDINAR",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreibdfqqudx7psaaaqhypwiag75ssw2vexwwsmvfsjtokxhexzzhaw4"
+    },
+    {
+      "chainId": 570,
       "address": "0x0AEd3Df0946E443A937d0890f2f6A3B689c8EEcD",
-      "name": "eDinar",
+      "name": "e-Dinar (Minted)",
       "symbol": "EDINAR",
       "decimals": 18,
       "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreibdfqqudx7psaaaqhypwiag75ssw2vexwwsmvfsjtokxhexzzhaw4"
     }
-  ],
-  "keywords": ["EDINAR", "currency", "rollux", "stable", "syscoin"]
+  ]
 }
